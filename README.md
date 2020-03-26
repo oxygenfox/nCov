@@ -4,5 +4,5 @@ This application lists the current number of cases reported across the globe. Th
 
 <br>
 <b>Online Demo:</b><br>
-https://covid-19.owl.my.id/
+https://covid-19.reactmore.com/
 <br><br>
